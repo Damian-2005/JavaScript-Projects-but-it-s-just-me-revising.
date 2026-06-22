@@ -20,3 +20,6 @@ crtl + c to exit REPL mode or .exit
 
 node (js filename) to run the code
 
+
+Continuing the learning quest here: [[day-04-d3-wrapup]]
+

@@ -5,7 +5,7 @@ desc: JavaScript Objects
 updated: 1781723643235
 created: 1781723643235
 ---
-### What is it?
+ ### What is it?
 
 A non-primitive data types that stores data, things or information in  keys and value pairs basically.
 
