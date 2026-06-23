@@ -1,4 +1,4 @@
-### Functions Cont'd 
+ ### Functions Cont'd 
 
 Functions can access outer variable and modify them.
 
