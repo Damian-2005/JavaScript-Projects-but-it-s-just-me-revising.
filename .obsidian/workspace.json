@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-05/day05.objects cont'd.md",
+                "file": "day-06/day-06.arraybasics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day05.objects cont'd"
+              "title": "day-06.arraybasics"
             }
           }
         ],
@@ -229,10 +229,12 @@
   },
   "active": "4380a971d86eb7ee",
   "lastOpenFiles": [
+    "Untitled.base",
+    "day-06/day-06.arraybasics.md",
+    "day-05/day05.objects cont'd.md",
     "day-05/objectsproblems2.js",
     "day-05/objectsproblem.js",
     "day-04/Notes/day-04-d3-wrapup.md",
-    "day-05/day05.objects cont'd.md",
     "day-05",
     "day-04/fxns-contd.js",
     "day-04/fxns-contd",
@@ -243,10 +245,8 @@
     "day -03.functionscontd.md",
     "day-03/functiontest.js",
     "functiontest.js",
-    "testing",
     "README.md",
     "day-02/Notes/day-02.constructor.md",
-    "day-03/Notes",
     "day-02/Notes/day-02.functions.md",
     "day-01/Notes/day-01.scope.md",
     "day-01/Notes/day-01.closures.md",

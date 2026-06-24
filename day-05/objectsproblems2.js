@@ -42,6 +42,6 @@ function sumobject(obj){
     return sum;
 }
 
-for(let=i; i>n; i++){
+for(let i =0 ; i>n; i++){
 
 }
