@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "day-06.arraybasics"
             }
+          },
+          {
+            "id": "df5d463c68dccafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contd of array method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contd of array method"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,11 +269,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a982165a316b5bda",
+  "active": "df5d463c68dccafa",
   "lastOpenFiles": [
-    "day-07/Js30 - Day 3 Project work.md",
+    "06 - Type Ahead/styles.css",
     "day-06/day-06.arraybasics.md",
+    "contd of array method.md",
+    "day-08",
     "day-07/js30- Day 4 Project work.md",
+    "day-07/Js30 - Day 3 Project work.md",
     "BASE.base",
     "day-07",
     "day-05/day05.objects cont'd.md",
@@ -274,7 +291,6 @@
     "day-02/Notes/day-02.objects.md",
     "day-04",
     "day -03.functionscontd.md",
-    "day-03/functiontest.js",
     "README.md",
     "day-02/Notes/day-02.constructor.md",
     "day-02/Notes/day-02.functions.md",
