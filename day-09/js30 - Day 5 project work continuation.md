@@ -21,6 +21,6 @@ Transitions and Translations and cubic beiziers -- like 2x mini projects to mast
 1. Array methods -> Map(), sort(), reduce() and filter
 2. Transition, Translation, Cubic Biezier - intro to animation and all that.
 3. Datasets.
-4. _what does the forEach method even do?_
+4. _what does the forEach method even do?_ ✅
 _What does the forEach method arrow syntax do?_
 5. and CSS Variables.
