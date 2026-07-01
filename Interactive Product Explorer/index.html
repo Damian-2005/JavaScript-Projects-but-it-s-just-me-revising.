@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .search-box{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header h2{
+            text-align: center;
+        }
+    </style>
+    <script>
+        const products = [
+            {
+                id: 1,
+                name: "Nike Shoes",
+                category: "Sports",
+                price: 80,
+                rating: 4.5
+            },
+            {
+                id: 2,
+                name: "Adidas",
+                category: "Fashion",
+                price: 50,
+                rating: 4.5
+            },
+            {
+                id: 3,
+                name: "Monitor",
+                category: "Tech",
+                price: 300,
+                rating: 4.5
+            },
+            {
+                id: 4,
+                name: "iwatch",
+                category: "Tech",
+                price: 80,
+                rating: 4.5
+            }                        
+        ];
+        let productsBox = document.querySelector('.products');
+        function makeProduct(productObj){
+            productsBox.innerHTML("")
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <h2 class="welcome-message"> Welcome to Our Product Explorer Page!</h2>
+    </header>
+
+    <section class="search-box">
+        <h3>Product Explorer</h3>
+        <div class="search">
+            <input type="search" placeholder="enter product of choice">
+            <input type="submit" value="search">
+        </div>
+        
+        <label for="category">Category:</label>
+        <select id="category">
+            <option>sports</option>
+            <option selected>all</option>
+            <option>fashion</option>
+            <option>tech</option>            
+        </select>
+    </section>
+    <section class="mode"> 
+            <label for="theme">Theme:</label>
+            <input type="submit" class="theme light" value="🌞Light">
+            <input type="submit" class="theme dark" value="🌙Dark">
+    </section>
+    <section class="product">
+
+    </section>
+    <!-- <section class="product1 sports">
+        <div class="info">
+            <h4>Nike Shoes</h4>
+            <p>sports</p>
+        </div>
+        <div class="overview">
+            <img src="" alt="nike" class="stars">
+            <p class="price">$80</p>
+        </div>
+    </section>
+        <section class="product1 fashion">
+        <div class="info">
+            <h4>Adidas Shoes</h4>
+            <p>fashion</p>
+        </div>
+        <div class="overview">
+            <img src="" alt="sambas" class="stars">
+            <p class="price">$50</p>
+        </div>
+    </section>
+        <section class="product1 tech">
+        <div class="info">
+            <h4>Monitor</h4>
+            <p>Tech</p>
+        </div>
+        <div class="overview">
+            <img src="" alt="monitor" class="stars">
+            <p class="price">$300</p>
+        </div>
+    </section>
+        <section class="product1 sports">
+        <div class="info">
+            <h4>iwatch</h4>
+            <p>Tech</p>
+        </div>
+        <div class="overview">
+            <img src="" alt="iwatch" class="stars">
+            <p class="price">$80</p>
+        </div>
+        <br>
+        <div class="display-block">
+            <p class="productNo">Products Found: </p>
+            <p class="averagePrice">Average Price: </p>
+            <p class="mostExpensive"> </p>
+        </div>
+    </section> -->
+</body>
+</html>

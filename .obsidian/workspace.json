@@ -139,30 +139,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-10/shaky concepts revision.md",
+                "file": "day-13/flexingfunctions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shaky concepts revision"
-            }
-          },
-          {
-            "id": "57c727b11d13090e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "day-12/Interactive Product Explorer/about.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "about"
+              "title": "flexingfunctions"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -325,28 +311,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "57c727b11d13090e",
+  "active": "2863e4840cee7023",
   "lastOpenFiles": [
-    "day-09/js30 - Day 5 project work continuation.md",
+    "day-12/shaky concepts pt3.md",
+    "day-13/flexingfunctions.md",
+    "Interactive Product Explorer/about.md",
+    "day-10/shaky concepts revision.md",
+    "day-13/functionsflex.js",
+    "day-13",
     "day-12/Interactive Product Explorer/about.md",
+    "Interactive Product Explorer/index.html",
+    "Interactive Product Explorer",
+    "day-09/js30 - Day 5 project work continuation.md",
     "day-12/Interactive Product Explorer/notes.md",
     "day-12/Interactive Product Explorer/1",
     "day-12/Interactive Product Explorer/index.html",
     "day-12/Interactive Product Explorer",
-    "day-10/shaky concepts revision.md",
-    "day-12/shaky concepts pt3.md",
     "day-11/cont'd of shaky concepts.md",
     "day-12/arrayMethods3.js",
     "day-12",
     "day-11",
     "day-10/Displaying_Images_with_JS.md",
-    "day-10/arraymethods2.js",
-    "day-10/arraymethods2",
     "day-07/Js30 - Day 3 Project work.md",
     "day-07/js30- Day 4 Project work.md",
-    "day-10/arraymethods.js",
     "day-08/contd of array method.md",
-    "day-10",
     "day-06/day-06.arraybasics.md",
     "day-05/day05.objects cont'd.md",
     "day-04/Notes/day-04-d3-wrapup.md",

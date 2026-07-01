@@ -1,5 +1,8 @@
 
+Agentic intelligent fren:
 I actually like this project because it's deceptively simple. Companies ask variants of it all the time because it tests how you think about state, rendering, and DOM updates.
+
+Me: Alright, let me get a little better with the foundations first.
 
 ---
 
