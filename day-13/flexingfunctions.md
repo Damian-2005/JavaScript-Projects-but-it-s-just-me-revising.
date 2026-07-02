@@ -4,9 +4,7 @@ desc: Noticed I've got a shaky functions foundation, so I'll be tackling these p
 src: https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
 ---
 
-
-
-1. Reverse Number
+1. Reverse Number ✅
 
 Write a JavaScript function that reverses a number.
 
@@ -31,7 +29,7 @@ console.log(revNumber([number input]))
 ```
 
 
-2. Reverse Negative number digits while preserving the negative sign.
+2. Reverse Negative number digits while preserving the negative sign. ✅
 
 ```
 function revNegative(number){
@@ -52,7 +50,7 @@ console.log(revNegative(-76));
 ```
 
   
-3. Check Palindrome.
+3. Check Palindrome. ✅
 
 Write a JavaScript function that checks whether a passed string is a palindrome or not?
 
@@ -99,7 +97,7 @@ _Expected Output :_ d,do,dog,o,og,g
 [Click me to see the solution](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-3.php)
 
   
-4. Sort String Alphabetically
+4. Sort String Alphabetically ✅
 
 Write a JavaScript function that returns a string that has letters in alphabetical order.
 
@@ -111,8 +109,18 @@ Assume punctuation and numbers symbols are not included in the passed string.
 
 [Click me to see the solution](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-4.php)
 
-  
-5. Capitalize First Letter of Each Word
+```
+My logic of:
+Function takes string,
+string -> array through the split method
+loop through each letter of array and compare each individual element
+something like if index[1] > index[i + 1] 
+index[i] = index[i + 1]; -> The replacement part
+outside loop return array.join(""); -> return the string
+
+Flawed Logic btw, ever heard of bubble sort algo? or even lazier, array methods?
+```  
+5. Capitalize First Letter of Each Word ✅
 
 Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word into upper case.
 
@@ -121,6 +129,15 @@ _Example string_ : 'the quick brown fox'
 _Expected Output :_ 'The Quick Brown Fox '
 
 [Click me to see the solution](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-5.php)
+
+```
+Logic: 
+split sentence the sentence into an array
+access the individual elements of the array and change their [0] to uppercase
+return a join version
+
+banger oooooo 
+```
 
   
 6. Find Longest Word
